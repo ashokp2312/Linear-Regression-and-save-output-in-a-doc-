@@ -1,1 +1,2 @@
-# Project-1
+# Linear Regression
+It takes input in the command line
